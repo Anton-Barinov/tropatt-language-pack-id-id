@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-id-id",
+    "full_code": "crm.language-pack-id-id",
+    "vendor": "crm",
+    "code": "id-id",
+    "title": "Indonesian Language Pack (Bahasa Indonesia)",
+    "native_name": "Bahasa Indonesia",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "Indonesian Language Pack (Bahasa Indonesia)",
+    "signature": "0586df45711453134fc6b6777eef75b55b32ea6be7143b25394141123aaa7d25"
+}

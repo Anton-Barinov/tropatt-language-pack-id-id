@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'Dasbor',
+  'ideas' => 'Lokal: Ideas',
+  'tasks' => 'Tugas',
+  'day' => 'Lokal: My day',
+  'week' => 'Lokal: My week',
+  'kanban' => 'Lokal: Kanban',
+  'gantt' => 'Lokal: Gantt',
+  'projects' => 'Proyek',
+  'calendar' => 'Kalender',
+  'counterparties' => 'Lokal: Counterparties',
+  'teams' => 'Tim',
+  'knowledge' => 'Basis pengetahuan',
+  'analytics' => 'Lokal: Analytics',
+  'notifications' => 'Notifikasi',
+  'admin' => 'Lokal: Administration',
+  'intake' => 'Lokal: Intake',
+  'cycles' => 'Lokal: Cycles (Sprints)',
+  'project_modules' => 'proyek Modules',
+  'admin_estimates' => 'tugas Estimates',
+  'admin_modules' => 'Lokal: Modules',
+  'chat' => 'Lokal: Chats',
+  'docs' => 'Lokal: Documentation',
+  'api' => 'Lokal: Documentation',
+  'my_earnings' => 'Lokal: My earnings',
+  'rate_cards' => 'Lokal: Rate cards',
+  'menu_loaded' => 'Lokal: Menu loaded',
+);

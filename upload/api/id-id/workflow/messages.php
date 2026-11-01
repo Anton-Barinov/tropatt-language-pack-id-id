@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Lokal: Workflow rules list',
+  'created' => 'Lokal: Workflow rule created',
+  'detail' => 'Lokal: Workflow rule details',
+  'updated' => 'Lokal: Workflow rule updated',
+  'deleted' => 'Lokal: Workflow rule deleted',
+  'test_run' => 'Test run selesai',
+  'runs' => 'Lokal: Workflow runs list',
+  'not_found' => 'Lokal: Workflow rule not found',
+  'invalid_trigger_code' => 'Lokal: Invalid trigger_code',
+  'invalid_action_code' => 'Lokal: Invalid action_code',
+  'payload_object' => 'Lokal: Payload must be an object',
+  'max_255' => 'Lokal: Maximum 255 characters',
+  'action_no_task_or_assignee' => 'No tugas atau Penanggung jawab selected',
+  'action_no_task_or_status' => 'No tugas atau baru Status selected',
+  'default_notification_title' => 'Automation notifikasi',
+  'action_no_notification_recipient' => 'No notifikasi recipient selected',
+  'action_no_task_or_comment' => 'No tugas atau comment text selected',
+  'action_no_user_for_reminder' => 'No pengguna selected for reminder',
+  'action_no_follow_up_title' => 'Follow-up tugas judul not specified',
+  'action_invalid_webhook_url' => 'Provide a valid http/https webhook URL',
+  'action_no_task_for_sla' => 'No tugas selected for SLA',
+  'action_no_manager' => 'Lokal: No manager found for the executor',
+  'manager_notification_title' => 'Lokal: Long work without a break',
+  'manager_notification_body' => '{user}: {total} minutes logged on the tugas «{task}» on {day} (threshold {threshold} minutes).',
+  'test_task_title' => 'Test tugas',
+  'follow_up_description' => 'Created by automation rule from tugas',
+  'follow_up_prefix' => 'Lokal: Follow-up: ',
+  'unknown_action' => 'Lokal: Unknown action: ',
+);

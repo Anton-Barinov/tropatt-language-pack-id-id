@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => 'Memuat...',
+  'load_error' => 'memuat kesalahan',
+  'empty' => 'Lokal: No saved views',
+  'pinned' => 'Lokal: Pinned',
+  'other' => 'Lokal: Others',
+  'system' => 'Lokal: System',
+  'public' => 'Lokal: Public',
+  'private' => 'Lokal: Private',
+  'pin' => 'Lokal: Pin',
+  'unpin' => 'Lokal: Unpin',
+  'duplicate' => 'Lokal: Duplicate',
+  'edit' => 'Edit',
+  'archive' => 'Lokal: Archive',
+  'applied' => 'lihat applied: ',
+  'apply_error' => 'kesalahan applying lihat',
+  'save_as' => 'simpan as baru lihat',
+  'edit_title' => 'Edit lihat',
+  'title_required' => 'Enter a lihat nama',
+  'update_error' => 'kesalahan updating lihat',
+  'create_error' => 'kesalahan creating lihat',
+  'pinned_msg' => 'Lokal: Pinned',
+  'unpinned_msg' => 'Lokal: Unpinned',
+  'pin_error' => 'kesalahan',
+  'duplicated' => 'lihat duplicated',
+  'duplicate_error' => 'kesalahan duplicating',
+  'confirm_archive' => 'Archive this lihat?',
+  'archived' => 'lihat archived',
+  'archive_error' => 'kesalahan archiving',
+);

@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'tugas template list',
+  'task_created' => 'tugas template created',
+  'task_detail' => 'tugas template',
+  'task_updated' => 'tugas template updated',
+  'task_deleted' => 'tugas template deleted',
+  'project_list' => 'proyek template list',
+  'project_created' => 'proyek template created',
+  'project_detail' => 'proyek template',
+  'project_updated' => 'proyek template updated',
+  'project_deleted' => 'proyek template deleted',
+  'max_255' => 'Lokal: Maximum 255 characters',
+  'payload_object' => 'Lokal: payload field must be an object',
+  'not_found' => 'Lokal: Template not found',
+  'empty_tasks' => 'No tugas templates',
+  'empty_projects' => 'No proyek templates',
+  'load_error_tasks' => 'gagal to load tugas templates',
+  'load_error_projects' => 'gagal to load proyek templates',
+  'btn_delete' => 'Hapus',
+  'created_task_notify' => 'tugas template created',
+  'created_project_notify' => 'proyek template created',
+  'error_create' => 'buat kesalahan',
+  'confirm_delete_task' => 'hapus tugas template?',
+  'confirm_delete_project' => 'hapus proyek template?',
+  'deleted_task_notify' => 'tugas template deleted',
+  'deleted_project_notify' => 'proyek template deleted',
+  'error_delete' => 'hapus kesalahan',
+  'task_applied' => 'tugas created from template',
+  'project_applied' => 'proyek created from template',
+);

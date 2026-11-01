@@ -1,0 +1,32 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'widgets' => 'Dasbor widgets',
+  'widgets_saved' => 'Dasbor widgets updated',
+  'widgets_required' => 'Widgets list is diperlukan',
+  'summary' => 'Dasbor summary',
+  'sticky_notes_title' => 'Lokal: Sticky Notes',
+  'sticky_notes_loading' => 'memuat notes...',
+  'sticky_notes_error' => 'gagal to load notes',
+  'sticky_notes_empty' => 'Lokal: No notes yet',
+  'sticky_notes_add' => '+ tambah note',
+  'sticky_notes_pin' => 'Lokal: Pin',
+  'sticky_notes_unpin' => 'Lokal: Unpin',
+  'sticky_notes_archive' => 'Lokal: Archive',
+  'sticky_notes_archive_confirm' => 'Lokal: Archive note?',
+  'sticky_notes_content_required' => 'Lokal: Enter note text',
+  'sticky_notes_saved' => 'Lokal: Note updated',
+  'sticky_notes_save_error' => 'simpan kesalahan',
+  'sticky_notes_update_error' => 'perbarui kesalahan',
+  'sticky_notes_archived' => 'Lokal: Note archived',
+  'sticky_notes_archive_error' => 'Archive kesalahan',
+  'sticky_notes_create_title' => 'baru note',
+  'sticky_notes_content_label' => 'Lokal: Note text',
+  'sticky_notes_placeholder' => 'tulis a note...',
+  'sticky_notes_color_label' => 'Lokal: Colour',
+  'sticky_notes_created' => 'Lokal: Note created',
+  'sticky_notes_create_error' => 'Creation kesalahan',
+  'insights' => 'Dasbor widget metrics',
+  'insights_unknown_widget' => 'Unknown Dasbor widget',
+);

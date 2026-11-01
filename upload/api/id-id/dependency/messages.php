@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Lokal: Dependency list',
+  'created' => 'Lokal: Dependency created',
+  'deleted' => 'Lokal: Dependency deleted',
+  'not_found' => 'Lokal: Dependency not found',
+  'task_not_found' => 'One of the tugas was not found',
+  'invalid_type' => 'Lokal: Invalid dependency type',
+  'supported_types' => 'Supported: FS, SS, FF, SF, BLOCKS',
+  'self_forbidden' => 'tugas cannot depend on itself',
+  'different_projects' => 'Dependencies can only be created between tugas in the same proyek',
+  'empty' => 'Lokal: No dependencies',
+  'th_type' => 'Lokal: Type',
+  'th_task' => 'tugas',
+  'btn_delete' => 'Hapus',
+  'load_error' => 'gagal to load dependencies',
+  'prompt_task_id' => 'tugas ID (public_id)',
+  'task_id_empty' => 'tugas ID cannot be empty',
+  'prompt_dep_type' => 'Dependency type (FS, SS, FF, SF)',
+  'created_notify' => 'Lokal: Dependency added',
+  'confirm_delete' => 'hapus dependency?',
+  'deleted_notify' => 'Lokal: Dependency deleted',
+  'type_fs' => 'Lokal: Finish-Start',
+  'type_ss' => 'Lokal: Start-Start',
+  'type_ff' => 'Lokal: Finish-Finish',
+  'type_sf' => 'Lokal: Start-Finish',
+  'type_blocks' => 'Lokal: Blocks',
+  'cyclic_dependency' => 'Dependency would buat a cycle between tugas',
+);
